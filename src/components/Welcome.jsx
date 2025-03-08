@@ -14,6 +14,8 @@ const Welcome = () => {
       <h2 className="font-semibold">React와 Firebase를 활용한 채팅 앱 예제입니다.</h2>
       <p>상단 메뉴의 로그인 버튼을 눌러 구글 로그인을 진행해주세요.</p>
       <p>로그인이 성공하면 채팅 화면으로 자동으로 이동됩니다.</p>
+      <p>Finale 화이팅</p>
+      <p>졸작 웹/앱 배포 연습중....</p>
     </main>
   );
 };
